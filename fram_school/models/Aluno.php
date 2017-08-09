@@ -54,8 +54,8 @@ class Aluno extends \yii\db\ActiveRecord
         return [
             'idaluno' => 'Idaluno',
             'nome' => 'Nome do Aluno',
-            'rg' => 'Rg',
-            'cpf' => 'Cpf',
+            'rg' => 'Rg do Aluno',
+            'cpf' => 'Cpf do Aluno',
             'endereco' => 'Endereco',
             'telefone' => 'Telefone',
             'cep' => 'Cep',
